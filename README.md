@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Watsonx.ai**
 
-- 👨‍💻 All of my projects are available at [Linkedin](www.linkedin.com/in/dany-setiawan-maulana-azis-489a49257)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/dany-setiawan-maulana-azis-489a49257)
 
 - 💬 Ask me about **Web and Python**
 
